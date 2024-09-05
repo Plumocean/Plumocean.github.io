@@ -35,7 +35,7 @@ categories:
 
 多肽链中的肽链可能的最简单排布是一个螺旋结构，Pualing和Corey在1950年称之为alpha螺旋。在这种结构中，多肽骨架围绕一个假想的中轴螺旋延伸，氨基酸残基向外突出，每个螺旋包含3.6个氨基酸，按照轴线延伸0.54nm。自然界中已发现的α螺旋都是右手螺旋。
 
-# 这里补一张helix
+![图2：AH](AH.png)
 
 之所以α螺旋比其他可能的构象更为稳定，是因为α螺旋最充分利用了肽键彼此形成的内部氢键，一个螺旋中第n个位置的肽键中与电负性氮原子连接的氢原子，与第n+4个肽键中的羰基氧形成氢键，稳定了α螺旋。
 
@@ -45,7 +45,7 @@ categories:
 
 [^2]:https://www.cambridge.org/core/journals/quarterly-reviews-of-biophysics/article/hiding-in-plain-sight-three-chemically-distinct-helix-types/55EB6C1845791F987565FC5BE93715C4
 
-![图2：氨基酸的电子密度[^3]](aas.png)
+![图3：氨基酸的电子密度[^3]](aas.png)
 
 [^3]:https://people.mbi.ucla.edu/sawaya/m230d/Modelbuilding/modelbuilding.html
 
